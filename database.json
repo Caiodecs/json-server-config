@@ -1,0 +1,24 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "tenis",
+      "preco": 400
+    },
+    {
+      "id": 2,
+      "nome": "bag",
+      "preco": 30
+    },
+    {
+      "id": 3,
+      "nome": "bone",
+      "preco": 50
+    },
+    {
+      "nome": "aaaaaa",
+      "preco": 4612,
+      "id": 4
+    }
+  ]
+}
